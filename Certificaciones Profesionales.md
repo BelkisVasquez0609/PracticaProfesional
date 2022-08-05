@@ -1,18 +1,18 @@
 
-# ¿Qué son las Acreditaciones Profesionales?
+# ¿Qué son las Acreditaciones Profesionales? **`<Persona>`** 
 ## Historia
 ## Origen
 
-# Beneficios de obtener una acreditación profesional. 
+# Beneficios de obtener una acreditación profesional.  **`<Persona>`** 
 
-# Principales opciones y tipos de acreditaciones  profesionales.
+# Principales opciones y tipos de acreditaciones  profesionales. 
 ## ¿Quiénes pueden obtenerla?
 
-# Certificaciones de herramientas y plataformas de Software.
+# Certificaciones de herramientas y plataformas de Software. **`<Persona>`** 
 
-# Certificaciones de metodologías de Software.
+# Certificaciones de metodologías de Software. **`<Persona>`** 
 
-# Certificaciones de lenguajes de programación de Software.
+# Certificaciones de lenguajes de programación de Software. **`<Persona>`** 
 
 
 # Bibliografia
