@@ -1,11 +1,11 @@
 
-# ¿Qué son las Acreditaciones Profesionales? **`<Persona>`** 
+# ¿Qué son las certificaciones Profesionales? **`<Samuel>`** 
 ## Historia
 ## Origen
 
-# Beneficios de obtener una acreditación profesional.  **`<Persona>`** 
+# Beneficios de obtener una certificaciones profesional.  **`<Oscar>`** 
 
-# Principales opciones y tipos de acreditaciones  profesionales. 
+# Principales opciones y tipos de certificaciones  profesionales. 
 ## ¿Quiénes pueden obtenerla?
 
 # Certificaciones de herramientas y plataformas de Software. **`<Persona>`** 
