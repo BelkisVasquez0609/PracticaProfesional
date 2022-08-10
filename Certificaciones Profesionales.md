@@ -11,7 +11,7 @@
 # Certificaciones de herramientas y plataformas de Software. **`<Yazmin>`** 
 En el rápido y cambiante mundo del desarrollo de software, es importante mantenerse al día de todas las novedades. Hay muchas opciones donde escoger, cuando se trata de decidir qué herramientas de desarrollo de software usar para optimizar el rendimiento de las  tareas diarias, y para desarrollar un software que funcione de manera eficiente. Un buen software developer necesita las mejores herramientas de desarrollo ¡te harán la vida mucho más fácil!.
 
-La industria del desarrollo de software está en constante evolución para seguir el ritmo de la demanda de productos que el mercado necesita. Para conseguirlo, se lanzan, constantemente, nuevos lenguajes, frameworks, bibliotecas y herramientas. 
+**La industria del desarrollo de software está en constante evolución** para seguir el ritmo de la demanda de productos que el mercado necesita. Para conseguirlo, se lanzan, constantemente, nuevos lenguajes, frameworks, bibliotecas y herramientas. 
 
 Como desarrollador, escribirás, probarás, implementarás y documentarás el código, te comunicarás con tu equipo y harás un seguimiento del progreso del proyecto. Para cada uno de los procesos mencionados existen muchas herramientas disponibles en el mercado. 
 
