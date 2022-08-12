@@ -3,10 +3,45 @@
 ## Historia
 ## Origen
 
-# Beneficios de obtener una certificaciones profesional.  **`<Oscar>`** 
+# Beneficios de obtener una certificaciones profesional. **`<Oscar>`**
 
-# Principales opciones y tipos de certificaciones  profesionales. 
-## ¿Quiénes pueden obtenerla?
+## Diapositiva 1 **`<Oscar>`**
+Una vez visto qué son las certificaciones profesionales nos surge la preguna: *Ok, pero ¿de qué me sirve obtener una certificación profesional?*
+
+Bien, estas ofrecen un set de conocimientos, habilidades y competencias profesionales que nos ayudan tanto a futuros profesionales como a empleados a superarse, especializarse e incluso conseguir empleo.
+
+## Diapositiva 2 **`<Oscar>`**
+Entrando más en detalle en los beneficios de obtener certificaciones, podemos destacar los siguientes aspectos:
+
+1. **Ofrece conocimientos técnicos:** Una certificación nos brinda una parte importante de los conocimientos técnicos propios de una esfera profesional. Dichos conocimientos son importantes y pueden abrirnos puertas del mercado laboral.
+
+2. **Resaltas sobre la competencia:** Las empresas se encuentran en búsqueda constante de personas calificadas. El campo de las TI es muy competitivo, y por tanto, una certificación podría ayudarnos a resaltar sobre la competencia.
+
+3. **Son cortas y directas:** Las certificaciones normalmente están diseñadas para brindar conocimientos indispensables para poder disputar un puesto laboral, por lo que suelen ser muy directas al punto. Además, suelen tener duración relativamente corta en relación a carreras profesionales, siendo algunas de de unos cuantos meses, un año, y demás.
+
+4. En algunos casos **te permiten convalidar tus estudios:** Dependiendo del tipo de certificación y del proveedor es posible que en otros centros de estudio lo tomen en cuenta con el objetivo de convalidar temas que ya hayas visto. Esto suele pasar al momento de hacer posgrados como maestrías, especializaciones, doctorados, entre otros.
+
+# Principales opciones y tipos de certificaciones  profesionales. **`<Oscar>`**
+Como sabemos, por cada área de estudio existe una cantidad inmensa de certificaciones, por lo que abarcarlas todas sería agotador.
+
+En el mundo de las Tecnologías de Información, que es el que nos interesa, existen muchas certificaciones, como las de Microsoft, Adobe, Google, entre otras.
+
+En abril de este año, una revista llamada *Bambú Editorial* hizo una investigación sobre cuales son las certificaciones más valiosas enfocadas en las TI, y el resultado fue el siguiente. Solo las mencionaré ya que algunas de ellas mis compañeros las tocarán más adelante.
+
+* Arquitecto de Soluciones AWS, de Amazon
+* Profesional de Seguridad en la Nube, de ISC
+* Hacker ético
+* Experto en interconexión de redes, de Cisco
+* Arquitecto de Soluciones de Azure, de Microsoft
+* Administración de Bases de Datos Oracle y MySQL
+* Entre otros
+
+# ¿Quiénes pueden obtenerla? **`<Oscar>`**
+Como hemos dicho antes, existen certificaciones de todo tipo enfocados a muchas áreas en específico. Por lo tanto, cada una de ellas tienen distintos tipos de requisitos.
+
+Hay muchas certificaciones que como requisito mínimo pide que el que la vaya a tomar haya terminado el bachillerato y le interese el área a estudiar. Incluso, hay certificaciones que no piden absolutamente nada como requisito. Sin embargo, existen otras certificaciones que son dirigidas a otro público y, por lo tanto, exigen más en los requisitos.
+
+Por ejemplo, hay certificaciones que exigen que las personas tengan algún título o esté estudiando algo relacionado al área en cuestión. O simplemente que se esté trabajando en el área, como es el caso de las oportunidades de hacer certificaciones que se les ofrece a los empleados en algunas empresas.
 
 # Certificaciones de herramientas y plataformas de Software. **`<Yazmin>`** 
 En el rápido y cambiante mundo del desarrollo de software, es importante mantenerse al día de todas las novedades. Hay muchas opciones donde escoger, cuando se trata de decidir qué herramientas de desarrollo de software usar para optimizar el rendimiento de las  tareas diarias, y para desarrollar un software que funcione de manera eficiente. Un buen software developer necesita las mejores herramientas de desarrollo ¡te harán la vida mucho más fácil!.
