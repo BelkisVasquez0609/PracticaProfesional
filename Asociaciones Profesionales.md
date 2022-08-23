@@ -68,3 +68,7 @@ https://www.instagram.com/mujeresticsrd/?hl=es
 Mujeres Tics RD. (2022, 20 enero). Home - Mujeres Tics RD. Mujeres Tics RD - Por Más Chicas En Tecnología. https://mujeresticsrd.org/
 Vision & Mission - IAU. (s. f.). IAU. Recuperado 23 de agosto de 2022, de https://www.iau-aiu.net/Vision-Mission
 
+
+# Preguntas
+
+1. **Quien inicio la comunidad mujeres tic?**
