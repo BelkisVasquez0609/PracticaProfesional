@@ -1,9 +1,14 @@
 # Importancia de las Asociaciones profesionales  de Software, Sistemas y Computación. `Nombre`
 # Características de al menos tres (3) Asociaciones internacionales 
-## 1 `Nombre`
+## 1 International Association of Universities
+es una organización que agrupa a instituciones de educación superior públicas y privadas a nivel mundial. Con sede en París, Francia en las instalaciones de la Unesco, la IAU se fundó en 1950.
 ### Tipos
+Por el lado de la finalidad de la asociación:
+* Asociaciones de fines particulares. La actividad que realizan se orienta hacia los asociados.
+Por el lado de su ámbito de actuación:
+* Es una institución destinada al ámbito educativo. 
 ### Propositos
-
+IAU promueve la colaboración entre sus miembros mediante la articulación de los valores y principios fundamentales que sustentan la búsqueda, difusión y aplicación del conocimiento. La Asociación aboga por políticas y prácticas de educación superior que respeten las diversas perspectivas y promuevan la responsabilidad social. Con un énfasis particular en los valores y el liderazgo, y actuando como un foro para el intercambio y la acción conjunta, la IAU fomenta la innovación, el aprendizaje mutuo y la cooperación entre instituciones.
 ## 2 `Nombre`
 ### Tipos
 ### Propositos
