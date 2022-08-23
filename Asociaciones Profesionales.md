@@ -1,6 +1,6 @@
 # Importancia de las Asociaciones profesionales  de Software, Sistemas y Computación. `Nombre`
 # Características de al menos tres (3) Asociaciones internacionales 
-## 1 International Association of Universities - Samuel Charles
+## 1 International Association of Universities - `Samuel Charles`
 es una organización que agrupa a instituciones de educación superior públicas y privadas a nivel mundial. Con sede en París, Francia en las instalaciones de la Unesco, la IAU se fundó en 1950.
 ### Tipos
 Por el lado de la finalidad de la asociación:
