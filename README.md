@@ -10,3 +10,4 @@ Espacio de exposiciones para la asignatura Practica profesional
 | Victor Toribio | 1098632 |
 | Samuel Charles | 1098628 |
 | Oscar Durán    | 1099235 |
+| Gregory Vargas | 1085138 |
