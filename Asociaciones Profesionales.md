@@ -32,7 +32,7 @@ Además Somos una comunidad de Mujeres apasionadas por la tecnología con más d
 ## Caracteristicas
 
 **1. ¿Que tiempo tiene esta comunidad?**
-Esta comunidad tiene 1 año. Empezamos en enero 2016.
+Empezamos en enero 2016.
 
 **2. ¿Cómo surge esta iniciativa?**
 Esta iniciativa surge a través de Julissa Mateo, quien fue la que inició con esta comunidad, ella quería reunir a todas las mujeres del área de tecnología que no fueran solamente de la carrera de software, ella tuvo la visión de juntarnos a todas. 
