@@ -43,6 +43,10 @@ No está dirigido solo a mujeres, está abierta para toda aquellas personas que 
 **4. Tamaño**
 51-200 empleados
 
+**5. Tipo**
+
+ONG. Se destinan a la cooperacion al desarrollo y a la sensibilización sobre determinados asuntos que afectan a la sociedad. 
+
 ## Propósitos 
 Nuestro propósito es apoyar a la Mujeres TICs Dominicanas en su crecimiento profesional con el fin de que se conviertan en líderes y para esto no buscamos excluirnos sino crear una plataforma desde donde se puedan impulsar las buenas ideas, los proyectos innovadores y que nuestras voces puedan ser escuchadas con más fuerza.
 
