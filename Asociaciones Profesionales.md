@@ -24,6 +24,10 @@ IAU promueve la colaboración entre sus miembros mediante la articulación de lo
 
 La Asociación Internacional de Calidad de Software (AICS) es una entidad certificadora para profesionales y empresas que desarrollan software, con sede principal en Estados Unidos, Las Vegas, fundada por Lionel Baquero en 2019.
 
+### Propósitos
+
+La Asociación Internacional de Calidad de Software ha sido fundada para fomentar las tecnologías y las buenas prácticas que permiten la construcción de software de calidad. Esta asociación permite a profesionales y empresas capacitarse, de igual forma provee exámenes de certificación internacional, que validan la capacidad que posee una persona o institución para producir software de alta calidad.
+
 ### Certificaciones
 
 Sus certificaciones gozan de un elevado prestigio entre la comunidad de profesionales del área. Los certificados que emiten son evidencia de la capacidad para producir software de calidad de profesionales y empresas.
@@ -36,10 +40,6 @@ Algunos ejemplos de las certificaciones con las que cuentan son:
 - Scrum Master Certified (SMC)
 - Angular Developer Certified (ADC)
 - entre otros...
-
-### Propósitos
-
-La Asociación Internacional de Calidad de Software ha sido fundada para fomentar las tecnologías y las buenas prácticas que permiten la construcción de software de calidad. Esta asociación permite a profesionales y empresas capacitarse, de igual forma provee exámenes de certificación internacional, que validan la capacidad que posee una persona o institución para producir software de alta calidad.
 
 ## 3 `Nombre`
 
@@ -104,6 +104,8 @@ https://www.instagram.com/mujeresticsrd/?hl=es
 
 Mujeres Tics RD. (2022, 20 enero). Home - Mujeres Tics RD. Mujeres Tics RD - Por Más Chicas En Tecnología. https://mujeresticsrd.org/
 Vision & Mission - IAU. (s. f.). IAU. Recuperado 23 de agosto de 2022, de https://www.iau-aiu.net/Vision-Mission
+
+aics. (n.d.). Asociación Internacional de Calidad de Software. Retrieved August 25, 2022, from https://aicsvirtual.org/
 
 # Preguntas
 
