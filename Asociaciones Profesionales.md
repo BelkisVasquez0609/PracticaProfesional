@@ -76,11 +76,19 @@ La Dirección Académica es el órgano de apoyo de la ALAPSI, encargado de prest
 La meta principal de la Asociación Latinoamericana de Profesionales en Seguridad Informática, A.C. (ALAPSI) es promover prácticas que aseguren la confidencialidad, integridad y disponibilidad de los recursos informáticos de las organizaciones.
 
 Somos el organismo de consulta y de autoridad moral en cualquier iniciativa de Seguridad Informática en los distintos ámbitos organizacionales.
-## 4 `Nombre`
+## 4 Organización para el Avance de Estándares de Información Estructurada `Greg Vargas`
 
-### Tipos
+### Definicion
+Es una organizacion internacional sin fines de lucro que se orienta al desarrollo, la convergencia y la adopción de los estándares de comercio electrónico y servicios web. Los miembros del consorcio deciden cómo y qué trabajo se realiza mediante un proceso abierto y democrático. El trabajo técnico se lleva a cabo en categorías tales como: Energía, Servicios Web, Comercio electrónico, Internet de las cosas, Seguridad, Leyes y Gobierno, Cadena de Suministro, Administración de Computación, Focos de Aplicación, Document-Centric, Procesamiento XML, Conformance/Interop y Dominios Industriales, entre otras áreas.
 
-### Propositos
+### Estandares
+OASIS ha aprobado diferentes estándares:
+
+UDDI 2.0 (Universal Description, Discovery and Integration), uno de los estándares claves en la arquitectura de servicios Web junto a XML, SOAP (Simple Object Access Protocol) y WSDL (Web Services Description Language)
+BPEL 2.0, para la composición de servicios web
+Open Document (OASIS Open Document Format for Office Applications), es un formato abierto de documentos para guardar documentos ofimáticos, como hojas de cálculo, memorándums, gráficos y presentaciones.
+DocBook es un lenguaje de marcado para documentación técnica. Fue originalmente diseñado para elaborar documentación técnica relacionada con hardware y software pero puede ser usado para cualquier tipo de documentación.
+EML 7.0 (Election Markup Language) es un estándar para el intercambio de datos estructurados entre hardware, software y proveedores de servicios que participan en algún aspecto del desarrollo de elecciones o servicios de votación para organizaciones públicas o privadas.
 
 # Mujeres Tic `Yazmin`
 
