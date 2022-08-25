@@ -41,12 +41,41 @@ Algunos ejemplos de las certificaciones con las que cuentan son:
 - Angular Developer Certified (ADC)
 - entre otros...
 
-## 3 `Nombre`
+## Asociación Latinoamericana en Seguridad Informática `Edgar Vasquez`
+ALAPSI surge de la inquietud y preocupación de un grupo de profesionales por reducir los riesgos del uso de la tecnología de la información en las organizaciones tanto públicas como privadas.
 
-### Tipos
+El 11 de julio de 1995 se constituye la ALAPSI y es reconocida por la ISSA (International Systems Security Association).
+
+Formado por Profesionales de:
+
+·         Empresas Financieras (30%).
+
+·         Proveedores de alta Tecnología (20%).
+
+·         Despachos de Consultoría en seguridad (15%).
+
+·         Industrias de Servicios o Productos (10%).
+
+·         Dependencias de gobierno (10%).
+
+·         Universidades (10%).
+
+·         Asociaciones Civiles (5%).
+
+
+### Certificaciones
+ALAPSI cuenta con experiencia de 25 años proporcionando las Certificaciones de ISACA en Latinoamérica mundialmente reconocida para profesionales en materia de Auditoría, Seguridad, Gobierno y Riesgo de TI. A través de instructores miembros de la asociación transmitiendo la experiencia y conocimientos que adquieren día a día como responsables de diferentes infraestructuras de Ciberseguridad.
+
+La Dirección Académica es el órgano de apoyo de la ALAPSI, encargado de prestar los servicios académicos que requieran los miembros, estudiantes, personal docente y publico en general con interés o necesidad de obtener cocimiento sobre la Seguridad de la Información.
+·   Certificacion CISSP
+·   Certificacion CISA
+·   Certificacion CISM
+
 
 ### Propositos
+La meta principal de la Asociación Latinoamericana de Profesionales en Seguridad Informática, A.C. (ALAPSI) es promover prácticas que aseguren la confidencialidad, integridad y disponibilidad de los recursos informáticos de las organizaciones.
 
+Somos el organismo de consulta y de autoridad moral en cualquier iniciativa de Seguridad Informática en los distintos ámbitos organizacionales.
 ## 4 `Nombre`
 
 ### Tipos
