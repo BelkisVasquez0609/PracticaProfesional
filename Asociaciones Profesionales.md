@@ -22,7 +22,7 @@ IAU promueve la colaboración entre sus miembros mediante la articulación de lo
 
 ### Concepto
 
-La Asociación Internacional de Calidad de Software (AICS) es una entidad certificadora para profesionales y empresas que desarrollan software fundada por Lionel Baquero.
+La Asociación Internacional de Calidad de Software (AICS) es una entidad certificadora para profesionales y empresas que desarrollan software, con sede principal en Estados Unidos, Las Vegas, fundada por Lionel Baquero en 2019.
 
 ### Certificaciones
 
