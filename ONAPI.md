@@ -25,7 +25,7 @@ Ser reconocida como una organización referente de calidad en la región, gestio
 - Facilitar el acceso a la protección de la inventiva y creatividad nacional.
 - Contribuir al aprovechamiento del desarrollo tecnológico por parte de nuestros nacionales con miras a generar bienestar y ser cada día más competitivos.
 
-- `Persona`
+`Victor`
 ## Servicios
 ## Procesos o procedimientos
 - `Oscar`
