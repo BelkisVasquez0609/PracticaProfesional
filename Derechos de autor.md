@@ -1,5 +1,5 @@
 Para la elaboración de la investigación, se espera que el contenido mínimo incluya estos temas, pero no se sujete solo a eso: 
-- `Victor`
+`Victor`
 ## Introducción 
 
 Es bien sabido que los productos de software son de caracter intangible, y que son producto del esfuerzo, la creatividad y, lo más importante, de la mente de 1 o muchas personas. Considerando esto, el software viene siendo propiedad de aquellos que realizaron dicho esfuerzo y cuentan con todo el derecho y potestad de utilizar y decidir los destinos del resultado del esfuerzo, exceptuando algunas circunstancias.
@@ -57,7 +57,7 @@ Existen actualmente variedad de licencias bajo las cuales es posible proteger un
 
 Aunque existen diversas licencias, la mayoría de productos de software utilizan la Licencia Pública General, garantizando que el producto desde su origen hasta las versiones que avance, ofrezcan las cuatro libertades del software libre.
 
-- `Yazmin`
+`Yazmin`
 ## Propiedad intelectual y Derechos de autor: 
 La protección de la propiedad intelectual de productos software ha sido un tema de bastante polémica en la mayoría de países, teniendo en cuenta que la protección con patentes está limitada a las fronteras de cada país, por lo tanto al querer patentar un producto software se requiere incurrir en altas inversiones, tanto económicas como de tiempo (dependiendo del tiempo por el cual se desea patentar la invención, y el país o países en los cuales se quiere proteger), ya que es un proceso complejo tanto jurídica como técnicamente.
 
@@ -86,15 +86,17 @@ https://www.egeda.do/documentos/Dec-No-362-01%20Reglamento%20Aplicacion-Ley%20No
 Este Reglamento tiene por finalidad desarrollar los principios contenidos en la Ley sobre Derecho de Autor, en lo relativo a la adecuada y efectiva protección a los autores y demás titulares de derechos sobre las obras literarias, científicas y artísticas, así como a los titulares de derechos afines al derecho de autor. 
 
 
-- `Edgar`
+`Edgar`
 ## Políticas nacionales e internacionales.
-- `Persona`
+
+`Persona`
 ## Licenciamiento en el software: 
 ### Historia
 ### Precursores
 ### Fundamentos
 ### Reglamentos 
-- `Oscar`
+
+`Oscar`
 ## Tipo de Licencias de Software Libre : 
 ### Software libre
 Para poder comprender los diferentes tipos de licencias existentes, en primer lugar, hay que distinguir sus tipologías. Y para ello, tenemos que definir qué es un software libre.
@@ -130,7 +132,7 @@ Las siguientes son algunas de las licencias que por alguna razón son incompatib
 * Licencia Libre Académica
 * Licencia de Apache
 
-- `Persona`
+`Persona`
 ## Licenciamientos libres para otros Recursos distintos del Software.
 ## Propiedad intelectual del Software Libre: Quién ostenta la propiedad intelectual en los productos de acceso libre?
 ## Conclusiones 
