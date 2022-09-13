@@ -28,7 +28,7 @@ Ser reconocida como una organización referente de calidad en la región, gestio
 - `Persona`
 ## Servicios
 ## Procesos o procedimientos
-- `Persona`
+- `Oscar`
 ## Contactos
 ## Página Web
 - `Persona`
