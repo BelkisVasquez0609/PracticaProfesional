@@ -86,7 +86,7 @@ https://www.egeda.do/documentos/Dec-No-362-01%20Reglamento%20Aplicacion-Ley%20No
 Este Reglamento tiene por finalidad desarrollar los principios contenidos en la Ley sobre Derecho de Autor, en lo relativo a la adecuada y efectiva protección a los autores y demás titulares de derechos sobre las obras literarias, científicas y artísticas, así como a los titulares de derechos afines al derecho de autor. 
 
 
-- `Persona`
+- `Edgar`
 ## Políticas nacionales e internacionales.
 - `Persona`
 ## Licenciamiento en el software: 
@@ -96,9 +96,40 @@ Este Reglamento tiene por finalidad desarrollar los principios contenidos en la 
 ### Reglamentos 
 - `Oscar`
 ## Tipo de Licencias de Software Libre : 
-### Tipos
+### Software libre
+Para poder comprender los diferentes tipos de licencias existentes, en primer lugar, hay que distinguir sus tipologías. Y para ello, tenemos que definir qué es un software libre.
+
+El software libre se refiere al programa informático en el que el usuario tiene libertades sobre el mismo, pudiendo ser usado, copiado, modificado y distribuido coomo el usuario quiera. Su potencial es muy grande, ya que permite a millones de programadores aplicar y ampliar su crecimiento por la disponibilidad y acceso global a este tipo de software.
+
+Es importante no confundir el software libre con el software gratuito, ya que el software libre puede ser gratuito o de pago, pero el usuario siempre será libre de usarlo como desee.
+
+### Tipos de licencias
+**Licencias GPL:** es una de las más utilizadas y se suele denominar como GNU GPL. Con esta licencia el desarrollador conserva los derechos de autor, pero permite su libre distribución, modificación y uso siempre y cuando el nuevo software que se desarrolle como resultado quede obligatoriamente con la misma licencia.
+
+**Licencias AGPL:** básicamente es como las GPL, solo que esta obliga a que se distribuya el software que se destine a dar servicios a través de una red de ordenadores, es decir, si se quiere usar como parte del desarrollo de un nuevo software, éste quedaría obligado a su libre distribución.
+
+**Licencia BSD:** es una licencia permisiva que casi no impone condiciones sobre lo que un usuario puede hacer con el software. Además, un software licenciado con BSD permite que otras versiones puedan tener otros tipos de licencias, tanto libres como propietarias.
+
+**Licencia Apache:** el software bajo este tipo de licencia permite al usuario distribuirlo, modificarlo, y distribuir versiones modificadas de ese software pero debe conservar el copyright y el disclaimer.
+
+**Licencias Creative Commons:** se basa en cuatro condiciones: atribución, no comercial, no derivadas y compartir igual.
+
 ### Licencias Compatibles con GPL
+GPL es la principal licencia de software de la Free Software Foundation. Por lo tanto, es importante resaltar algunas licencias compatibles con la misma:
+* LGPL, que permite que el software se enlace con módulos no libres.
+* Licencia de Guile, que está basada en la GPL, pero adiciona una declaración especial que permite enlazarla con software no libre.
+* Licencia X11 o Licencia del MIT
+* Licencia Expat
+* Licencia de Copyright ML Estándar de New Jersey
+
 ### Incompatibles con la GPL
+Las siguientes son algunas de las licencias que por alguna razón son incompatibles con la GNU GPL:
+* Licencia Pública General de Affero
+* Licencia Pública de Arphic
+* Licencia de OpenSSL, que es una combinación de dos licencias: OpenSSL y la de SSLeay.
+* Licencia Libre Académica
+* Licencia de Apache
+
 - `Persona`
 ## Licenciamientos libres para otros Recursos distintos del Software.
 ## Propiedad intelectual del Software Libre: Quién ostenta la propiedad intelectual en los productos de acceso libre?
@@ -110,3 +141,5 @@ colaboradores de Wikipedia. (2022, 15 febrero). Historia de los derechos de auto
 Fundamentos de derecho de autor. (s. f.). Recuperado 9 de septiembre de 2022, de https://copyrightservice.net/es/copyright#:%7E:text=El%20derecho%20de%20autor%20es,en%20cine%2C%20etc.).
 
 https://www.egeda.do/documentos/Dec-No-362-01%20Reglamento%20Aplicacion-Ley%20No65-00.pdf
+
+Las 5 licencias de software libre más importantes que todo desarrollador debe conocer. BBVA Api Market. https://www.bbvaapimarket.com/es/mundo-api/las-5-licencias-de-software-libre-mas-importantes-que-todo-desarrollador-debe-conocer/
