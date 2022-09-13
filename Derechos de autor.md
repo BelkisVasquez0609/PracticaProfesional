@@ -2,6 +2,10 @@ Para la elaboración de la investigación, se espera que el contenido mínimo in
 - `Victor`
 ## Introducción 
 
+Es bien sabido que los productos de software son de caracter intangible, y que son producto del esfuerzo, la creatividad y, lo más importante, de la mente de 1 o muchas personas. Considerando esto, el software viene siendo propiedad de aquellos que realizaron dicho esfuerzo y cuentan con todo el derecho y potestad de utilizar y decidir los destinos del resultado del esfuerzo, exceptuando algunas circunstancias.
+
+Atendiendo a esto, su titularidad sobre el producto creado debe ser resguardada y protegida lo cual se realiza a través de ciertos mecanismos que se encargan de procurar esto, no obstante, esto no siempre se da ya que los titulares deciden utilizar otra clase de acercamiento menos conservador permitiendo un uso mucho más liberal del producto.
+
 ## Resumen del Artículo 
 #### Introducción
 
