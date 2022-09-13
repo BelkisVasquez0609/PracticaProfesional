@@ -1,4 +1,4 @@
-- `Yazmin`
+`Yazmin`
 ## Origen
 ONAPI es una Institución adscrita al Ministerio de Industria y Comercio, con autonomía técnica y con patrimonio propio, que administra todo lo relativo a la concesión, al mantenimiento y vigencia de las diferentes modalidades de la Propiedad Industrial (Patentes de Invención, de Modelos de Utilidad, Registro de Diseños Industriales y de Signos Distintivos).
 
@@ -28,13 +28,16 @@ Ser reconocida como una organización referente de calidad en la región, gestio
 `Victor`
 ## Servicios
 ## Procesos o procedimientos
-- `Oscar`
+
+`Oscar`
 ## Contactos
 ## Página Web
-- `Persona`
+
+`Persona`
 ## Costos/Precios
 ## Eventos
-- `Persona`
+
+`Persona`
 ## Entrenamientos
 
 ## Áreas Técnicas:
