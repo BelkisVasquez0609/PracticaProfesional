@@ -17,7 +17,7 @@ Ser reconocida como una organización referente de calidad en la región, gestio
 - Equidad
 - Puntualidad
 
-- `Persona`
+`Edgar`
 ## Estructura Orgánica
 
 ## Objetivos
