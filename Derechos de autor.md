@@ -1,5 +1,5 @@
 Para la elaboración de la investigación, se espera que el contenido mínimo incluya estos temas, pero no se sujete solo a eso: 
-- `Persona`
+- `Victor`
 ## Introducción 
 ## Resumen del Artículo 
 
@@ -40,7 +40,7 @@ Este Reglamento tiene por finalidad desarrollar los principios contenidos en la 
 ### Precursores
 ### Fundamentos
 ### Reglamentos 
-- `Persona`
+- `Oscar`
 ## Tipo de Licencias de Software Libre : 
 ### Tipos
 ### Licencias Compatibles con GPL
