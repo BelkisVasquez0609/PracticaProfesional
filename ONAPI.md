@@ -33,8 +33,61 @@ Ser reconocida como una organización referente de calidad en la región, gestio
 ## Contactos
 ## Página Web
 
-`Persona`
+`Samuel Charles`
 ## Costos/Precios
+### Registro de Nombre Comercial
+### Marcas
+#### Indicacion Geográfica
+- RD$9,401.00 Solicitud
+- RD$2,875.00 Publicación
+#### Denominación de Origen
+- RD$9,401.00 Solicitud 
+- RD$2,875.00 1ra Publicación 
+- RD$2,875.00 2da Publicación 
+- RD$3,956.00 Modificación de Denominación de Origen
+#### Registro de Marcas Certificación
+- RD$ 5,445.00 Solicitud 
+- RD$ 4,111.00 Clase adicional 
+- RD$ 2,875.00 Publicación de marca y reseña de RD$ 1,288.00 reclamo de prioridad por cada clase 
+- (*Si es una marca multiclases se cobra RD$ 2,875.00 la Publicación base RD$ 1,564.00 cada clase adicional.*)
+#### Registro de Marcas Colectiva
+- RD$ 5,445.00 Solicitud 
+- RD$ 4,111.00 Clase adicional 
+- RD$ 2,875.00 Publicación de marca y reseña de reglamento 
+- RD$ 1,288.00 Reclamo de prioridad por cada clase 
+- RD$ 1,288.00 Modificación del Reglamento de Uso 
+- (*Si es una marca multiclases se cobra RD$ 2,300.00 la publicación base RD$ 1,564.00 cada clase adicional*).
+#### Registro de Marca Sonora
+- RD$ 5,445.00 Solicitud RD$ 1,564.00 Publicación 
+- RD$ 4,111.00 Clase adicional RD$ 1,288.00 reclamo de prioridad por cada clase 
+- (*Si es una marca multiclases se cobra RD$ 2,000.00 la publicación base y RD$ 1,360.00 cada clase adicional.*)
+#### Registro de Marca Olfativa 
+- RD$ 5,445.00 Solicitud RD$ 1,564.00 Publicación 
+- RD$ 4,111.00 Clase adicional 
+- RD$ 1,288.00 reclamo de prioridad por cada clase 
+- (*Si es una marca multiclases se cobra RD$ 2,300.00 la publicación base y RD$ 1,564.00 Cada clase adicional.)
+#### Registro de Marca Tridimensional
+- RD$ 5,445.00 Solicitud base 
+- RD$ 1,564.00 Publicación si es uniclase 
+- RD$ 4,111.00 Clase adicional 
+- (*Si es una marca multiclases se cobra RD$ 2,300.00 la publicación base y RD$ 1,564.00 Cada clase adicional.)
+#### Registro de Marca Figurativa
+- RD$ 5,445.00 Solicitud base 
+- RD$ 1,564.00 Publicación si es uniclasesi es uniclase 
+- RD$4,111.00 Clase adicional 
+- (*Si es una marca multiclases se cobra RD$ 2,300.00 la publicación base y RD$ 1,564.00 cada clase adicional. RD$ 1,288.00 reclamo de prioridad por cada clase)
+#### Registro de Marca Mixta
+- RD$5,445.00 Solicitud base 
+- RD$ 1,564.00 Publicación Base 
+- RD$ 4,111.00 Clase adicional 
+- *Si es una marca multiclases se cobra RD$ 2,300.00 la publicación base y RD$ 1,564.00 Cada Clase clase adicional. RD$ 1,288.00 reclamo de prioridad por cada clase.*
+#### Registro de Marca Denominativa
+- RD$ 5,445.00 Solicitud base 
+- RD$ 1,150.00 Publicación base uniclase 
+- RD$ 4,111.00 Clase adicional 
+- *Si es una marca multiclases se cobra por la publicación base RD$ 2,300.00 y RD$ 1,150.00 Cada clase adicional RD$ 1,288.00 reclamo de prioridad por cada clase*
+#### Registro de Lema Comercial
+- 
 ## Eventos
 
 `Persona`
