@@ -104,3 +104,6 @@ Son las responsables de la administración de la Ley 20-00 sobre Propiedad Indus
 ## Áreas de apoyo:
 
 Constituyen el soporte de las áreas técnicas. La ONAPI cuenta con un staff con funciones muy especializadas que apoyan y contribuyen al buen funcionamiento de la Organización. El enfoque en el cliente ha llevado a la Organización a incorporar en su estructura un área especializada para el servicio al cliente a si como una red de oficinas delegadas que facilita la prestación de servicios en distintos puntos del territorio nacional
+## Bibliografia
+https://www.onapi.gov.do/index.php/servicios/signos-distintivos/marcas/item/234-registro-de-lema-comercial
+http://www.onapi.gov.do:8080/index.php/servicios/signos-distintivos/renovaciones-y-actos-modificatorios
