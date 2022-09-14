@@ -87,7 +87,10 @@ Ser reconocida como una organización referente de calidad en la región, gestio
 - RD$ 4,111.00 Clase adicional 
 - *Si es una marca multiclases se cobra por la publicación base RD$ 2,300.00 y RD$ 1,150.00 Cada clase adicional RD$ 1,288.00 reclamo de prioridad por cada clase*
 #### Registro de Lema Comercial
-- 
+- RD$5,445.00 Solicitud de registro 
+- RD$4,111.00 Clase adicional 
+- RD$1,150.00 publicación 
+- RD$1,150.00 Publicación Clase adicional RD$1,288.00 reclamo de prioridad por cada clase
 ## Eventos
 
 `Persona`
