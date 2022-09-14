@@ -89,12 +89,17 @@ Este Reglamento tiene por finalidad desarrollar los principios contenidos en la 
 `Edgar`
 ## Políticas nacionales e internacionales.
 
-`Persona`
+`Samuel`
 ## Licenciamiento en el software: 
+Las licencias de software son un contrato entre el autor de un programa informático y los usuarios del mismo. En ellas se establecen los términos, condiciones y cláusulas que se deben cumplir para poder usar ese programa y cada usuario que se descarga, instala, copia o lo utiliza debe aceptar esas condiciones.  
 ### Historia
+
 ### Precursores
+
 ### Fundamentos
+
 ### Reglamentos 
+
 
 `Oscar`
 ## Tipo de Licencias de Software Libre : 
@@ -145,3 +150,5 @@ Fundamentos de derecho de autor. (s. f.). Recuperado 9 de septiembre de 2022, d
 https://www.egeda.do/documentos/Dec-No-362-01%20Reglamento%20Aplicacion-Ley%20No65-00.pdf
 
 Las 5 licencias de software libre más importantes que todo desarrollador debe conocer. BBVA Api Market. https://www.bbvaapimarket.com/es/mundo-api/las-5-licencias-de-software-libre-mas-importantes-que-todo-desarrollador-debe-conocer/
+
+https://blog.orange.es/consejos-y-trucos/que-son-las-licencias-de-software-y-que-tipos-hay/#:~:text=Las%20licencias%20de%20software%20son%20un%20contrato%20entre%20el%20autor,utiliza%20debe%20aceptar%20esas%20condiciones.
