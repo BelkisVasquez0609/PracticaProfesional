@@ -47,3 +47,5 @@ https://es.eserp.com/articulos/como-hacer-una-buena-presentacion-en-power-point/
 LLanes Bellet, R. (s. f.). ALGUNAS REGLAS GENERALES PARA HACER UNA PRESENTACIÓN CON DIAPOSITIVAS. https://files.sld.cu/pdvedado/files/2011/06/para-hacer-diapositivas1.pdf
 
 Paso, R. T. G. (s. f.). 5 reglas de oro para hacer una presentación. Recuperado 28 de septiembre de 2022, de https://blog.uvm.mx/5-reglas-de-oro-para-hacer-una-presentacion
+
+Moll, S. (2016, 23 febrero). 8 Errores que debes evitar en una presentación en powerpoint. Justifica tu respuesta. Recuperado 28 de septiembre de 2022, de https://justificaturespuesta.com/8-errores-evitar-presentacion-powerpoint/
