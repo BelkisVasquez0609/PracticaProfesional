@@ -27,6 +27,7 @@ Conseguirás que tu audiencia te recuerde, conectarás con ellos emocionalmente,
   - La diapositiva no debe referir fechas innecesarias, porque pueden limitar el empleo futuro de las mismas o de la presentación en general.
   - Escribir todo el texto en mayúsculas, negrita o cursiva. Si en una diapositiva todo es importante, entonces significa que nada es realmente importante. Cuando todo está en mayúscula se dificulta la legibilidad y además parece que gritas en lugar de enseñar o informar.
   - Usar caprichosamente varios tipos de letras en una misma diapositiva o presentación. Las presentaciones no sirven para decorar, sino para enseñar o transmitir información útil y pertinente.
+  
 **(Persona)**
 ## Cantidad de Párrafos
 
