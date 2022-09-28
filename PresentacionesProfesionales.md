@@ -17,12 +17,16 @@ Conseguirás que tu audiencia te recuerde, conectarás con ellos emocionalmente,
   - El texto debe ser legible desde la parte final del auditorio, de ahí la letra Impact 24 como mínimo.
   - Los bordes deben ser amplios alrededor de todo el texto.
 
-**(Persona)**
+**(Edgar)**
 ### Debe evitarse 
   - No recargar las vistas -con textos, ilustraciones o cuadros,
+  Usar un tamaño de la letra demasiado pequeño. En el libro El arte de presentar: Cómo planificar, estructurar, diseñar y exponer presentaciones se comenta que de las tres cosas que más irritan a la gente de una presentación en powerpoint es el hecho de no poder leer el texto de una diapositiva por ser demasiado pequeño.
+  
   - Los textos, imágenes o gráficos no deben quedar pegados al borde de la diapositiva.
   - Debe evitarse la aglomeración de elementos que dificulta la lectura, pues la complejidad, oscurece y confunde los datos. Solo deben escribirse abreviaturas, siglas, acrónimos o notaciones que sean de carácter internacional, las nacionales, es preferible, escribir su nombre completo.
   - La diapositiva no debe referir fechas innecesarias, porque pueden limitar el empleo futuro de las mismas o de la presentación en general.
+  - Escribir todo el texto en mayúsculas, negrita o cursiva. Si en una diapositiva todo es importante, entonces significa que nada es realmente importante. Cuando todo está en mayúscula se dificulta la legibilidad y además parece que gritas en lugar de enseñar o informar.
+  - Usar caprichosamente varios tipos de letras en una misma diapositiva o presentación. Las presentaciones no sirven para decorar, sino para enseñar o transmitir información útil y pertinente.
 **(Persona)**
 ## Cantidad de Párrafos
 
