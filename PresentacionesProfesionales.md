@@ -120,6 +120,9 @@ El método Takahashi sigue un principio similar al método Lessig. Una vez más,
 **(Persona)**
 ### Debe evitarse 
 
+No es para nadie sorpresa que el tiempo es dinero, más cuando hablamos en el área profesional. 
+- Pasar la cantidad de 10 slides. 
+
 # Bibliografia 
 Frutos, V. (2016, 12 mayo). La importancia de una buena presentación. Everythink PR boutique. Recuperado 28 de septiembre de 2022, de https://everythinkpr.com/la-importancia-de-una-buena-presentacion/#:%7E:text=Conseguir%C3%A1s%20que%20tu%20audiencia%20te,resistir%C3%A1%20ninguna%20diapositiva%20en%20blanco! 
 
@@ -134,4 +137,6 @@ Moll, S. (2016, 23 febrero). 8 Errores que debes evitar en una presentación en 
 wikiHow. (2022, 1 septiembre). 3 Ways to Choose the Right Number of Slides for a Powerpoint Presentation. Recuperado 28 de septiembre de 2022, de https://www.wikihow.com/Choose-the-Right-Number-of-Slides-for-a-Powerpoint-Presentation
 Becker, T. (2022, 20 mayo). How Many PowerPoint Slides Does a Presentation Need? PresentationLoad Blog. Recuperado 28 de septiembre de 2022, de https://blog.presentationload.com/number-powerpoint-slides-presentation-need/
 ![image](https://user-images.githubusercontent.com/80557014/192935868-894d0700-8299-44b0-8288-54d8fb5cb362.png)
+
+https://dozeninvestments.com/recursos/tu-presentacion-debe-ser-de-10-diapositivas/#:~:text=La%20presentación%20perfecta%20es%20de%2010%20diapositivas&text=Guy%20Kawasaki%2C%20evangeliza%20la%20regla,puede%20ser%20mayor%20de%2030.
 
