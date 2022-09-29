@@ -123,3 +123,8 @@ LLanes Bellet, R. (s. f.). ALGUNAS REGLAS GENERALES PARA HACER UNA PRESENTACIÓ
 Paso, R. T. G. (s. f.). 5 reglas de oro para hacer una presentación. Recuperado 28 de septiembre de 2022, de https://blog.uvm.mx/5-reglas-de-oro-para-hacer-una-presentacion
 
 Moll, S. (2016, 23 febrero). 8 Errores que debes evitar en una presentación en powerpoint. Justifica tu respuesta. Recuperado 28 de septiembre de 2022, de https://justificaturespuesta.com/8-errores-evitar-presentacion-powerpoint/
+
+wikiHow. (2022, 1 septiembre). 3 Ways to Choose the Right Number of Slides for a Powerpoint Presentation. Recuperado 28 de septiembre de 2022, de https://www.wikihow.com/Choose-the-Right-Number-of-Slides-for-a-Powerpoint-Presentation
+Becker, T. (2022, 20 mayo). How Many PowerPoint Slides Does a Presentation Need? PresentationLoad Blog. Recuperado 28 de septiembre de 2022, de https://blog.presentationload.com/number-powerpoint-slides-presentation-need/
+![image](https://user-images.githubusercontent.com/80557014/192935868-894d0700-8299-44b0-8288-54d8fb5cb362.png)
+
