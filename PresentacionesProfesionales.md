@@ -34,7 +34,7 @@ Conseguirás que tu audiencia te recuerde, conectarás con ellos emocionalmente,
 **(Persona)**
 ### Debe evitarse 
 
-**(Persona)**
+**Víctor**
 ## Cantidad de Slides
 
 **(Persona)**
