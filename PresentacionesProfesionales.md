@@ -29,6 +29,13 @@ Conseguirás que tu audiencia te recuerde, conectarás con ellos emocionalmente,
 **(Oscar)**
 ## Cantidad de Párrafos
 
+En términos generales, no es recomendable tener párrafos en las diapositivas porque no es buena idea que las personas lean todo el contenido mientras nos escuchan hablar, al igual que no es formal leer todo un párrafo de la diapositiva. Por lo tanto, lo mejor que podemos hacer es olvidarnos de la idea de escribir párrafos y limitarnos a escribir frases puntuales sobre el tema a tratar.
+
+Por otro lado, en caso de que el tipo de diapositiva o el tipo de contenido nos obligue a escribir párrafos, pues lo ideal es seguir las siguientes dos reglas:
+
+* **Solo un párrafo por diapositiva.** Es recomendable escribir uno o dos párrafos por diapositiva, no más. Esto para reducir la carga visual. Es mejor acompañar el texto con figuras e imágenes relacionadas.
+* **Líneas limitadas.** Lo mejor es limitarse a hacer párrafos con un máximo de 6-8 líneas con una fuente y tamaño legible.
+
 **(Persona)**
 ### Debe evitarse 
 
