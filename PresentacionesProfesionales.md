@@ -120,8 +120,11 @@ El método Takahashi sigue un principio similar al método Lessig. Una vez más,
 **(Persona)**
 ### Debe evitarse 
 
-No es para nadie sorpresa que el tiempo es dinero, más cuando hablamos en el área profesional. 
-- Pasar la cantidad de 10 slides. 
+No es para nadie sorpresa que el tiempo es dinero, más cuando hablamos en el área profesional. Por esta razon acorde a Guy Kawasaki que evangeliza la regla de las 10/20/30 que establece:
+- Un Slide no debe de pasar de 10 slides.
+- No debe pasar de 20 minutos.
+- El tamaño de la fuente no deberia ser mayor 30.
+Por esta razon no es recomendable que una persona pase de las 10 slides para desglozar un tema. Es muy poco probable que una persona preste su total atencion pasadas las 10 slides, sin embargo, a nivel muy detallado no existen restricciones totales respecto a la cantidad de slides.
 
 # Bibliografia 
 Frutos, V. (2016, 12 mayo). La importancia de una buena presentación. Everythink PR boutique. Recuperado 28 de septiembre de 2022, de https://everythinkpr.com/la-importancia-de-una-buena-presentacion/#:%7E:text=Conseguir%C3%A1s%20que%20tu%20audiencia%20te,resistir%C3%A1%20ninguna%20diapositiva%20en%20blanco! 
