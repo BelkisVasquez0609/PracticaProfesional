@@ -10,7 +10,6 @@ Conseguirás que tu audiencia te recuerde, conectarás con ellos emocionalmente,
   - **Regla 8x8**8 palabras máximo por línea y 8 líneas máximo por diapositiva. No hay nada más abrumador y aburrido que una diapositiva “atascada” de palabras.
   - Se debe transmitir sólo una idea por cada diapositiva. Una diapositiva, un tema, es un buen punto de partida. Mezclar varios temas diluye el mensaje, confunde a los espectadores y te hace a ti mismo más difícil hacer una presentación coherente. Presentando un único tema por diapositiva convierte la información en trozos más fáciles de digerir y por tanto más fáciles de recordar. Sin pasarse, claro, tampoco quiere esto decir que las presentaciones necesiten tener 400 diapositivas.
   - Hay que ser mesurado en los textos.
-  - Tiene que existir un balance entre los elementos que contiene la diapositiva: texto, imágenes, gráficos, etc.). 
   - Los textos deben hacerse, preferiblemente, centrados.
   - La distribución debe ser simple y abierta.
   - El texto debe ser legible desde la parte final del auditorio, de ahí la letra Impact 24 como mínimo.
